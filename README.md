@@ -7,6 +7,9 @@ The main purpose of this repository is to provide a public index for these works
 ## Papers
 
 Papers will be added gradually.
+1. **Different Points of Departure in Statistical Physics, and the Paths They Indicate — A Discussion of Particle Ontology and Structure Ontology**  
+   PDF: [Download PDF](./04-two-points-of-departure-and-their-paths.pdf)  
+   DOI: https://doi.org/10.5281/zenodo.19792460
 
 ## Keywords
 
