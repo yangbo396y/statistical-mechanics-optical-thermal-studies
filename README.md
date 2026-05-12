@@ -8,10 +8,11 @@ The main purpose of this repository is to provide a public index for these works
 
 Papers are listed below and will be added gradually.
 1. **A Further Note on the Statistical Meaning of Photon Number in a Thermal-Equilibrium Radiation**
+   
    PDF: [Download PDF](./03-the-statistical-meaning-of-photon-number.pdf)  
    DOI: https://doi.org/10.5281/zenodo.19096717
 
-3. **Different Points of Departure in Statistical Physics, and the Paths They Indicate — A Discussion of Particle Ontology and Structure Ontology**  
+2. **Different Points of Departure in Statistical Physics, and the Paths They Indicate — A Discussion of Particle Ontology and Structure Ontology**  
    PDF: [Download PDF](./04-two-points-of-departure-and-their-paths.pdf)  
    DOI: https://doi.org/10.5281/zenodo.19792460
 
