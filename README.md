@@ -15,7 +15,7 @@ From the perspective of structure ontology, phase cells are taken as the basic u
 - **Keywords:** Statistical mechanics; Phase cells; Temperature; Heating process
 - **Zenodo DOI:** 10.5281/zenodo.20237784
 - **Version:** v3
-- **File:** `A Discussion of Phase Cells as the Basic Descriptive Units of Structure in Statistical Mechanics.pdf`
+- **File:** `02-phase_cells_as_the_basic_descriptive_units_of_structure`
 
 **Citation:**
 
