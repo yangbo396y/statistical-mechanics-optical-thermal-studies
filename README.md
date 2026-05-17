@@ -7,7 +7,7 @@ The main purpose of this repository is to provide a public index for these works
 ## Papers
 Papers are listed below and will be added gradually.
 
-1 ### A Discussion of Phase Cells as the Basic Descriptive Units of Structure in Statistical Mechanics
+1 **A Discussion of Phase Cells as the Basic Descriptive Units of Structure in Statistical Mechanics**
 
 From the perspective of structure ontology, phase cells are taken as the basic units for describing structure in statistical mechanics. Within this framework, the relationship between a system’s temperature and the distribution of energy within phase cells is one of representation and being represented; that is, temperature is a statistical representation of the system’s energy distribution.
 - **Author:** Bo Yang
@@ -16,6 +16,8 @@ From the perspective of structure ontology, phase cells are taken as the basic u
 - **Zenodo DOI:** 10.5281/zenodo.20237784
 - **Version:** v3
 - **PDF:** [Download PDF](<./02-phase_cells_as_the_basic_descriptive_units_of_structure.pdf>)
+
+
 **Citation:**
 
 ```bibtex
