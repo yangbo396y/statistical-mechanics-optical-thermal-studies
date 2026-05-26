@@ -16,8 +16,9 @@ This paper discusses the statistical connection between optical and thermal proc
 - **Keywords:**  Statistical mechanics; Optical process; Thermal process; Phase cells
 - **Zenodo DOI:** 10.5281/zenodo.17791813
 - **Version:** v2
-- **PDF:** [Download PDF](<./01-statistical-mechanical-considerations-on-optical-and-thermal-Citation:
+- **PDF:** [Download PDF](./01-statistical-mechanical-considerations-on-optical-and-thermal.pdf>）
 
+**Citation:**
 ```bibtex
 @misc{yang2025opticalthermal,
   author       = {Yang, Bo},
@@ -28,9 +29,10 @@ This paper discusses the statistical connection between optical and thermal proc
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.17791813},
   url          = {https://doi.org/10.5281/zenodo.17791813}
-} 
+}
+```
 
-## 2. A Discussion of Phase Cells as the Basic Descriptive Units of Structure in Statistical Mechanics**
+## 2. A Discussion of Phase Cells as the Basic Descriptive Units of Structure in Statistical Mechanics
 
 From the perspective of structure ontology, phase cells are taken as the basic units for describing structure in statistical mechanics. Within this framework, the relationship between a system’s temperature and the distribution of energy within phase cells is one of representation and being represented; that is, temperature is a statistical representation of the system’s energy distribution.
 - **Author:** Bo Yang
