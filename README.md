@@ -11,12 +11,24 @@ Papers are listed below and will be added gradually.
 
 This paper discusses the statistical connection between optical and thermal processes from the perspective of statistical mechanics. It argues that optical absorption and heat transfer are statistically equivalent mechanisms for increasing temperature, both corresponding to an increase in the average number of energy quanta within phase cells.
 
-- Author: Bo Yang
-- Date: December 2, 2025
-- Keywords: Statistical mechanics; Optical process; Thermal process; Phase cells
-- Zenodo DOI: 10.5281/zenodo.20352401
-- Version: v2
-- PDF: Download PDF
+- **Author:** Bo Yang
+- **Date:** December 2, 2025
+- **Keywords:**  Statistical mechanics; Optical process; Thermal process; Phase cells
+- **Zenodo DOI:** 10.5281/zenodo.17791813
+- **Version:** v2
+- **PDF:** [Download PDF](<./01-statistical-mechanical-considerations-on-optical-and-thermal-Citation:
+
+```bibtex
+@misc{yang2025opticalthermal,
+  author       = {Yang, Bo},
+  title        = {Statistical Mechanical Considerations on Optical and Thermal Processes},
+  year         = {2025},
+  month        = dec,
+  day          = {2},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17791813},
+  url          = {https://doi.org/10.5281/zenodo.17791813}
+} 
 
 ## 2. A Discussion of Phase Cells as the Basic Descriptive Units of Structure in Statistical Mechanics**
 
