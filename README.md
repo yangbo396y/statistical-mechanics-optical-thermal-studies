@@ -16,7 +16,7 @@ This paper discusses the statistical connection between optical and thermal proc
 - **Keywords:**  Statistical mechanics; Optical process; Thermal process; Phase cells
 - **Zenodo DOI:** 10.5281/zenodo.17791813
 - **Version:** v2
-- **PDF:** [Download PDF](./01-statistical-mechanical-considerations-on-optical-and-thermal.pdf>）
+- **PDF:** [Download PDF](./01-statistical-mechanical-considerations-on-optical-and-thermal-processes.pdf>）
 
 **Citation:**
 ```bibtex
