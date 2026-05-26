@@ -7,15 +7,26 @@ The main purpose of this repository is to provide a public index for these works
 ## Papers
 Papers are listed below and will be added gradually.
 
-1 **A Discussion of Phase Cells as the Basic Descriptive Units of Structure in Statistical Mechanics**
+## 1. Statistical Mechanical Considerations on Optical and Thermal Processes
+
+This paper discusses the statistical connection between optical and thermal processes from the perspective of statistical mechanics. It argues that optical absorption and heat transfer are statistically equivalent mechanisms for increasing temperature, both corresponding to an increase in the average number of energy quanta within phase cells.
+
+- Author: Bo Yang
+- Date: December 2, 2025
+- Keywords: Statistical mechanics; Optical process; Thermal process; Phase cells
+- Zenodo DOI: 10.5281/zenodo.20352401
+- Version: v2
+- PDF: Download PDF
+
+## 2. A Discussion of Phase Cells as the Basic Descriptive Units of Structure in Statistical Mechanics**
 
 From the perspective of structure ontology, phase cells are taken as the basic units for describing structure in statistical mechanics. Within this framework, the relationship between a system’s temperature and the distribution of energy within phase cells is one of representation and being represented; that is, temperature is a statistical representation of the system’s energy distribution.
 - **Author:** Bo Yang
 - **Date:** February 3, 2026
 - **Keywords:** Statistical mechanics; Phase cells; Temperature; Heating process
-- **Zenodo DOI:** 10.5281/zenodo.20237784
+- **Zenodo DOI:** 10.5281/zenodo.17791813
 - **Version:** v3
-- **PDF:** [Download PDF](<./02-phase_cells_as_the_basic_descriptive_units_of_structure.pdf>)
+- **PDF:** [Download PDF](<./01-.pdf>)
 
 
 **Citation:**
