@@ -57,4 +57,27 @@ From the perspective of structure ontology, phase cells are taken as the basic u
   url          = {https://doi.org/10.5281/zenodo.18468146}
 }
 ```
+## 3. A Further Note on the Statistical Meaning of Photon Number in a Thermal-Equilibrium Radiation System
 
+This paper is a further supplement to the third part of the previous paper, concerning the statistical meaning of photon number in a thermal-equilibrium radiation system. It further points out that, from the perspective of structure ontology, the identity of the photon in statistical mechanics is that of a count.
+- **Author:** Bo Yang
+- **Date:** March 18, 2026
+- **Keywords:** Statistical mechanics; Photon number; Thermal-equilibrium radiation; Structure ontology
+- **Zenodo DOI:** 10.5281/zenodo.19096716
+- **Version:** v2
+- **PDF:** [Download PDF](./03a-further-note-on-the-statistical-meaning-of-photon-number.pdf)
+
+  **Citation:**
+
+```bibtex
+@misc{yang2026photonnumbernote,
+  author    = {Yang, Bo},
+  title     = {A Further Note on the Statistical Meaning of Photon Number in a Thermal-Equilibrium Radiation System},
+  year      = {2026},
+  month     = mar,
+  day       = {18},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.19096716},
+  url       = {https://doi.org/10.5281/zenodo.19096716}
+}
+```
