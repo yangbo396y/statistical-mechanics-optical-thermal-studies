@@ -67,7 +67,7 @@ This paper is a further supplement to the third part of the previous paper, conc
 - **Version:** v2
 - **PDF:** [Download PDF](./03a-further-note-on-the-statistical-meaning-of-photon-number.pdf)
 
-  **Citation:**
+**Citation:**
 
 ```bibtex
 @misc{yang2026photonnumbernote,
