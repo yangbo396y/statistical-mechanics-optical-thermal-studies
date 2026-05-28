@@ -81,3 +81,30 @@ This paper is a further supplement to the third part of the previous paper, conc
   url       = {https://doi.org/10.5281/zenodo.19096716}
 }
 ```
+
+## 4. Different Points of Departure in Statistical Physics, and the Paths They Indicate
+### — A Discussion of Particle Ontology and Structure Ontology
+
+This paper discusses two different points of departure in statistical physics: particle ontology and structure ontology. It argues that different theoretical starting points lead to different interpretative paths and descriptions of physical phenomena, while structure ontology provides a unified statistical framework for understanding several thermodynamic phenomena.
+
+- **Author:** Bo Yang
+- **Date:** April 26, 2026
+- **Keywords:** Statistical mechanics; Particle ontology; Structure ontology; Equilibrium state
+- **Zenodo DOI:** 10.5281/zenodo.19792459
+- **Version:** v2
+- **PDF:** [Download PDF](./04-two-points-of-departure-and-the-paths-they-indicate.pdf)
+
+**Citation:**
+
+```bibtex
+@misc{yang2026departurepaths,
+  author    = {Yang, Bo},
+  title     = {Different Points of Departure in Statistical Physics, and the Paths They Indicate: A Discussion of Particle Ontology and Structure Ontology},
+  year      = {2026},
+  month     = apr,
+  day       = {26},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.19792459},
+  url       = {https://doi.org/10.5281/zenodo.19792459}
+}
+```
