@@ -108,3 +108,27 @@ This paper discusses two different points of departure in statistical physics: p
   url       = {https://doi.org/10.5281/zenodo.19792459}
 }
 ```
+## 5. Some Studies on Optical and Thermal Phenomena from the Perspective of Statistical Mechanics
+
+Within the framework of statistical mechanics, this paper presents several studies concerning optical and thermal phenomena. This paper points out that optics and thermodynamics have long been regarded as independent fields of study, but from the perspective of statistical mechanics, optical phenomena and thermal phenomena are connected. Subsequently, this paper reconsiders the position and meaning of the thermal concept of temperature in statistical mechanics. On this basis, two phenomena respectively involving thermal and optical processes can be naturally explained: the phenomenon of system heating and the phenomenon of non-conservation of the total number of photons in a thermal-equilibrium radiation system. The description of these two phenomena are distinctly different from the usual dynamical description. In addition, within the framework of statistical mechanics, several seemingly different thermal phenomena can also be explained within a common statistical framework.
+
+- **Author:** Bo Yang
+- **Date:** May 27, 2026
+- **Keywords:** Statistical mechanics; Optical process; Thermal process; Photon number; Temperature; Structure ontology
+- **Zenodo DOI:** 10.5281/zenodo.20407724
+- **Version:** v1
+
+**Citation:**
+
+```bibtex
+@misc{yang2026opticalthermalstudies,
+  author    = {Yang, Bo},
+  title     = {Some Studies on Optical and Thermal Phenomena from the Perspective of Statistical Mechanics},
+  year      = {2026},
+  month     = may,
+  day       = {27},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.20407724},
+  url       = {https://doi.org/10.5281/zenodo.20407724}
+}
+```
