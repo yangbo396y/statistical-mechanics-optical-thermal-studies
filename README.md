@@ -116,7 +116,7 @@ Within the framework of statistical mechanics, this paper presents several studi
 - **Keywords:** Statistical mechanics; Optical process; Thermal process; Photon number; Structure ontology
 - **Zenodo DOI:** 10.5281/zenodo.20407724
 - **Version:** v1
-- **PDF:** [Download PDF](./05-statistical-studies-on-optical-and-thermal-phenomena.pdf)
+- **PDF:** [Download PDF](./05-statistical-studies-on-optical-and-thermal-phenamenon.pdf)
 
 **Citation:**
 
