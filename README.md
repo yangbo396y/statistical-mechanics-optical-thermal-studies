@@ -5,7 +5,6 @@ This repository collects a series of papers and notes on statistical mechanics, 
 The main purpose of this repository is to provide a public index for these works, including PDF files, Zenodo DOI links, and related information.
 
 ## Papers
-Papers are listed below and will be added gradually.
 
 ## 1. Statistical Mechanical Considerations on Optical and Thermal Processes
 
@@ -114,9 +113,10 @@ Within the framework of statistical mechanics, this paper presents several studi
 
 - **Author:** Bo Yang
 - **Date:** May 27, 2026
-- **Keywords:** Statistical mechanics; Optical process; Thermal process; Photon number; Temperature; Structure ontology
+- **Keywords:** Statistical mechanics; Optical process; Thermal process; Photon number; Structure ontology
 - **Zenodo DOI:** 10.5281/zenodo.20407724
 - **Version:** v1
+- **PDF:** [Download PDF](./05-statistical-studies-on-optical-and-thermal-phenomena.pdf)
 
 **Citation:**
 
