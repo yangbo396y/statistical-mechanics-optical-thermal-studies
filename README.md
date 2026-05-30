@@ -132,3 +132,29 @@ Within the framework of statistical mechanics, this paper presents several studi
   url       = {https://doi.org/10.5281/zenodo.20407724}
 }
 ```
+
+## 6. Statistical Studies on Optical and Thermal Phenomena
+
+A Chinese manuscript discussing optical and thermal phenomena from the perspective of statistical mechanics. The work reexamines the statistical meaning of temperature and photon number, and explores how different thermal phenomena may be understood within a unified statistical framework.
+
+- **Author:** Bo Yang
+- **Date:** May 30, 2026
+- **Keywords:** Statistical mechanics; Temperature; Photon number; Optical phenomena; Thermal phenomena; Equilibrium state; Heating process; Particle ontology; Structure ontology
+- **Zenodo DOI:** 10.5281/zenodo.20453654
+- **Version:** v1
+- **PDF:** [Download PDF](./06-统计力学下光现象与热现象的研究.pdf)
+
+Citation:
+
+```bibtex
+@misc{yang2026opticalthermalstudies,
+  author    = {Yang, Bo},
+  title     = {Statistical Studies on Optical and Thermal Phenomena},
+  year      = {2026},
+  month     = may,
+  day       = {30},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.20453653},
+  url       = {https://doi.org/10.5281/zenodo.20453653}
+}
+```
