@@ -140,7 +140,7 @@ A Chinese manuscript discussing optical and thermal phenomena from the perspecti
 - **Author:** Bo Yang
 - **Date:** May 30, 2026
 - **Keywords:** Statistical mechanics; Temperature; Photon number; Optical phenomena; Thermal phenomena; Equilibrium state; Heating process; Particle ontology; Structure ontology
-- **Zenodo DOI:** 10.5281/zenodo.20453654
+- **Zenodo DOI:** 10.5281/zenodo.20453653
 - **Version:** v1
 - **PDF:** [Download PDF](./06-统计力学下光现象与热现象的研究.pdf)
 
