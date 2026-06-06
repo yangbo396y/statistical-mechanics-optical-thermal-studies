@@ -133,7 +133,7 @@ Within the framework of statistical mechanics, this paper presents several studi
 }
 ```
 
-## 6. Statistical Studies on Optical and Thermal Phenomena from the Perspective of Statistical Mechanics (Chinese Version)
+## 6. Some Studies on Optical and Thermal Phenomena from the Perspective of Statistical Mechanics (Chinese Version)
 
 A Chinese manuscript discussing optical and thermal phenomena from the perspective of statistical mechanics. The work reexamines the statistical meaning of temperature and photon number, and explores how different thermal phenomena may be understood within a unified statistical framework.
 
