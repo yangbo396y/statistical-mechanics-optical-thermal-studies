@@ -13,8 +13,7 @@ This paper discusses the statistical connection between optical and thermal proc
 - **Author:** Bo Yang
 - **Date:** December 2, 2025
 - **Keywords:**  Statistical mechanics; Optical process; Thermal process; Phase cells
-- **DOI:**
-  https://doi.org/10.5281/zenodo.17791813
+- **DOI:** https://doi.org/10.5281/zenodo.17791813
 - **Version:** v2
 - **PDF:** [Download PDF](<./01-statistical-mechanical-considerations-on-optical-and-thermal-processes.pdf>)
   
@@ -38,7 +37,7 @@ From the perspective of structure ontology, phase cells are taken as the basic u
 - **Author:** Bo Yang
 - **Date:** February 3, 2026
 - **Keywords:** Statistical mechanics; Phase cells; Temperature; Heating process
-- **Zenodo DOI:** 10.5281/zenodo.17791813
+- **DOI:** https://doi.org/10.5281/zenodo.17791813
 - **Version:** v3
 - **PDF:** [Download PDF](<./02-phase-cells-as-the-basic-descriptive-units-of-structure.pdf>)
 
@@ -63,7 +62,7 @@ This paper is a further supplement to the third part of the previous paper, conc
 - **Author:** Bo Yang
 - **Date:** March 18, 2026
 - **Keywords:** Statistical mechanics; Photon number; Thermal-equilibrium radiation; Structure ontology
-- **Zenodo DOI:** 10.5281/zenodo.19096716
+- **DOI:** https://doi.org/10.5281/zenodo.19096716
 - **Version:** v2
 - **PDF:** [Download PDF](./03a-further-note-on-the-statistical-meaning-of-photon-number.pdf)
 
@@ -90,7 +89,7 @@ This paper discusses two different points of departure in statistical physics: p
 - **Author:** Bo Yang
 - **Date:** April 26, 2026
 - **Keywords:** Statistical mechanics; Particle ontology; Structure ontology; Equilibrium state
-- **Zenodo DOI:** 10.5281/zenodo.19792459
+- **DOI:** https://doi.org/10.5281/zenodo.19792459
 - **Version:** v2
 - **PDF:** [Download PDF](./04-two-points-of-departure-and-the-paths-they-indicate.pdf)
 
@@ -115,7 +114,7 @@ Within the framework of statistical mechanics, this paper presents several studi
 - **Author:** Bo Yang
 - **Date:** May 27, 2026
 - **Keywords:** Statistical mechanics; Optical process; Thermal process; Photon number; Structure ontology
-- **Zenodo DOI:** 10.5281/zenodo.20407724
+- **DOI:** https://doi.org/10.5281/zenodo.20407724
 - **Version:** v1
 - **PDF:** [Download PDF](./05-statistical-studies-on-optical-and-thermal-phenamenon.pdf)
 
@@ -141,7 +140,7 @@ A Chinese manuscript discussing optical and thermal phenomena from the perspecti
 - **Author:** Bo Yang
 - **Date:** May 30, 2026
 - **Keywords:** Statistical mechanics; Temperature; Photon number; Optical phenomena; Thermal phenomena; Equilibrium state; Heating process; Particle ontology; Structure ontology
-- **Zenodo DOI:** 10.5281/zenodo.20453653
+- **DOI:** https://doi.org/10.5281/zenodo.20453653
 - **Version:** v1
 - **PDF:** [Download PDF](./06-统计力学下光现象与热现象的研究.pdf)
 
