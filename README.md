@@ -4,6 +4,8 @@ This repository collects a series of papers and notes on statistical mechanics, 
 
 The main purpose of this repository is to provide a public index for these works, including PDF files, Zenodo DOI links, and related information.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23122457.svg)](https://doi.org/10.5281/zenodo.23122457)
+
 ## Papers
 
 ## 1. Statistical Mechanical Considerations on Optical and Thermal Processes
