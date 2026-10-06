@@ -13,7 +13,7 @@ All versions of this repository can be cited using: DOI: https://doi.org/10.5281
 **Author:** Bo Yang  
 **ORCID:** https://orcid.org/0009-0002-8331-7291
 
-Further studies are continued in [*Statistical Mechanics, Optical and Thermal Studies II*](你的第二个仓库链接).
+Further studies are continued in [*[Statistical Mechanics, Optical and Thermal Studies II](https://github.com/yangbo396y/statistical-mechanics-optical-thermal-studies-II)*](你的第二个仓库链接).
 ## Papers
 
 ## 1. Statistical Mechanical Considerations on Optical and Thermal Processes
