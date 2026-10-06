@@ -45,7 +45,6 @@ This paper is a further supplement to the third part of the previous paper, conc
 - **Keywords:** Statistical mechanics; Photon number; Thermal-equilibrium radiation; Structure ontology
 - **DOI:** https://doi.org/10.5281/zenodo.19096716
 - **Version:** v2
-- **PDF:** [Download PDF](./03a-further-note-on-the-statistical-meaning-of-photon-number.pdf)
 
 ## 4. Different Points of Departure in Statistical Physics, and the Paths They Indicate
 ### — A Discussion of Particle Ontology and Structure Ontology
