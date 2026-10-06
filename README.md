@@ -56,7 +56,6 @@ This paper discusses two different points of departure in statistical physics: p
 - **Keywords:** Statistical mechanics; Particle ontology; Structure ontology; Equilibrium state
 - **DOI:** https://doi.org/10.5281/zenodo.19792459
 - **Version:** v2
-- **PDF:** [Download PDF](./04-two-points-of-departure-and-the-paths-they-indicate.pdf)
 
 **Citation:**
 
