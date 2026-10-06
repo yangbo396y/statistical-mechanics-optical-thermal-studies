@@ -25,7 +25,6 @@ This paper discusses the statistical connection between optical and thermal proc
 - **Keywords:**  Statistical mechanics; Optical process; Thermal process; Phase cells
 - **DOI:** https://doi.org/10.5281/zenodo.17791813
 - **Version:** v2
-- **PDF:** [Download PDF](<./01-statistical-mechanical-considerations-on-optical-and-thermal-processes.pdf>)
 
 ## 2. A Discussion of Phase Cells as the Basic Descriptive Units of Structure in Statistical Mechanics
 
@@ -35,7 +34,6 @@ From the perspective of structure ontology, phase cells are taken as the basic u
 - **Keywords:** Statistical mechanics; Phase cells; Temperature; Heating process
 - **DOI:** https://doi.org/10.5281/zenodo.18468146
 - **Version:** v3
-- **PDF:** [Download PDF](<./02-phase-cells-as-the-basic-descriptive-units-of-structure.pdf>)
 
 ## 3. A Further Note on the Statistical Meaning of Photon Number in a Thermal-Equilibrium Radiation System
 
@@ -66,7 +64,6 @@ Within the framework of statistical mechanics, this paper presents several studi
 - **Keywords:** Statistical mechanics; Optical process; Thermal process; Photon number; Structure ontology
 - **DOI:** https://doi.org/10.5281/zenodo.20407724
 - **Version:** v1
-- **PDF:** [Download PDF](./05-statistical-studies-on-optical-and-thermal-phenamenon.pdf)
 
 ## 6. Some Studies on Optical and Thermal Phenomena from the Perspective of Statistical Mechanics (Chinese Version)
 
@@ -77,4 +74,3 @@ A Chinese manuscript discussing optical and thermal phenomena from the perspecti
 - **Keywords:** Statistical mechanics; Temperature; Photon number; Optical phenomena; Thermal phenomena; Equilibrium state; Heating process; Particle ontology; Structure ontology
 - **DOI:** https://doi.org/10.5281/zenodo.20453653
 - **Version:** v1
-- **PDF:** [Download PDF](./06-统计力学下光现象与热现象的研究.pdf)
