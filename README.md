@@ -24,7 +24,7 @@ This paper discusses the statistical connection between optical and thermal proc
 - **Date:** December 2, 2025
 - **Keywords:**  Statistical mechanics; Optical process; Thermal process; Phase cells
 - **DOI:** https://doi.org/10.5281/zenodo.17791813
-- **Version:** v2
+- **Version:** 3.0
 
 ## 2. A Discussion of Phase Cells as the Basic Descriptive Units of Structure in Statistical Mechanics
 
@@ -33,7 +33,7 @@ From the perspective of structure ontology, phase cells are taken as the basic u
 - **Date:** February 3, 2026
 - **Keywords:** Statistical mechanics; Phase cells; Temperature; Heating process
 - **DOI:** https://doi.org/10.5281/zenodo.18468146
-- **Version:** v3
+- **Version:** 4.0
 
 ## 3. A Further Note on the Statistical Meaning of Photon Number in a Thermal-Equilibrium Radiation System
 
@@ -42,7 +42,7 @@ This paper is a further supplement to the third part of the previous paper, conc
 - **Date:** March 18, 2026
 - **Keywords:** Statistical mechanics; Photon number; Thermal-equilibrium radiation; Structure ontology
 - **DOI:** https://doi.org/10.5281/zenodo.19096716
-- **Version:** v2
+- **Version:** 3.0
 
 ## 4. Different Points of Departure in Statistical Physics, and the Paths They Indicate
 ### — A Discussion of Particle Ontology and Structure Ontology
@@ -53,7 +53,7 @@ This paper discusses two different points of departure in statistical physics: p
 - **Date:** April 26, 2026
 - **Keywords:** Statistical mechanics; Particle ontology; Structure ontology; Equilibrium state
 - **DOI:** https://doi.org/10.5281/zenodo.19792459
-- **Version:** v2
+- **Version:** 2.1
 
 ## 5. Some Studies on Optical and Thermal Phenomena from the Perspective of Statistical Mechanics
 
@@ -63,7 +63,7 @@ Within the framework of statistical mechanics, this paper presents several studi
 - **Date:** May 27, 2026
 - **Keywords:** Statistical mechanics; Optical process; Thermal process; Photon number; Structure ontology
 - **DOI:** https://doi.org/10.5281/zenodo.20407724
-- **Version:** v1
+- **Version:** 1.0
 
 ## 6. Some Studies on Optical and Thermal Phenomena from the Perspective of Statistical Mechanics (Chinese Version)
 
@@ -73,4 +73,4 @@ A Chinese manuscript discussing optical and thermal phenomena from the perspecti
 - **Date:** May 30, 2026
 - **Keywords:** Statistical mechanics; Temperature; Photon number; Optical phenomena; Thermal phenomena; Equilibrium state; Heating process; Particle ontology; Structure ontology
 - **DOI:** https://doi.org/10.5281/zenodo.20453653
-- **Version:** v1
+- **Version:** 2.0
